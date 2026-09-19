@@ -9,11 +9,11 @@ I mostly code in **Go**, sometimes **Python**, and have plan to learn **C** and 
 
 - **[Blog API](https://github.com/hamidgh01/Go-Blog-API) *(Go / gin-gonic)*:** A RESTful API including typical feature expected from a standard RESTful API.
 
-- **[HTTP Server](https://github.com/hamidgh01/HttpServer-from-TCP) on top of TCP sockets *(Go)*:** Check this repo to: Dive into HTTP protocol deeply, Comprehend HTTP/Web Severs internals, Deal with the challenges of parsing raw bytes into meaningful HTTP request, And more...
+- **[HTTP Server](https://github.com/hamidgh01/HttpServer-from-TCP) *(Go)*:** Minimal HTTP Server, built on top of TCP listener/socket, using Go language
 
-- **[Cache Proxy](https://github.com/hamidgh01/cache-proxy) *(Go)*:** See how a Caching Proxy can acts, to reduce latency and improve throughput in high-traffic systems.
+- **[Cache Proxy](https://github.com/hamidgh01/cache-proxy) *(Go)*:** Lightweight HTTP Caching-Proxy written in Go, backed by Redis
 
-- **[File Sharing System](https://github.com/hamidgh01/File-Sharing-System) *(Go)*:** Have you ever think how does an upload server or a download manager work? and how they handle the challenges of streaming large files over unreliable networks? check this repo to answer these and some other questions...
+- **[File Sharing System](https://github.com/hamidgh01/File-Sharing-System) *(Go)*:** Basic File Sharing System (including an **Upload Server** and a **Downloader Engine**), using Go language
 
 \* *this list will be updated soon! :)))*
 
